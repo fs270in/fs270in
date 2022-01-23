@@ -1,4 +1,9 @@
-- 🌱 I’m currently learning macOS development using Swift.
+- 🌱 I’m currently learning macOS development using Swift 5.5 SwiftUI.
+
+Experience includes...
+  HTML, DHTML, XHTML, CSS, XML, JavaScript, PHP, MySQL, Visual Basic, ASP, Flash.
+  Swift.
+  C/C++ (Arduino).
 
 <!---
 fs270in/fs270in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
