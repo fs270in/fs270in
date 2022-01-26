@@ -1,7 +1,8 @@
 - 🌱 I’m currently learning macOS development using Swift 5.5 SwiftUI.
 
 Experience includes...
-  HTML, DHTML, XHTML, CSS, XML, JavaScript, PHP, MySQL, Visual Basic, ASP, Flash.
+  HTML, DHTML, XHTML, CSS, XML, JavaScript, PHP, MySQL, Visual Basic, ASP, Flash, REST, Apache.
+  BASIC.
   Swift.
   C/C++ (Arduino).
 
