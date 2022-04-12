@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning macOS development using Swift 5.5 SwiftUI.
+- 🌱 I’m currently expanding my macOS development skills using Swift 5.6.
 
 Experience includes...
   HTML, DHTML, XHTML, CSS, XML, JavaScript, PHP, MySQL, Visual Basic, ASP, Flash, REST, Apache.
