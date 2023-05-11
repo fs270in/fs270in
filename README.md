@@ -1,4 +1,4 @@
-- 🌱 I’m currently expanding my macOS development skills using Swift 5.6.
+- 🌱 I’m currently expanding my macOS development skills using Swift 5.8.
 
 Experience includes...
   HTML, DHTML, XHTML, CSS, XML, JavaScript, PHP, MySQL, Visual Basic, ASP, Flash, REST, Apache.
